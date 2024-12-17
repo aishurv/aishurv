@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aishurv
 - Laxmi Wandare
 - 👀 I’m interested in Data Science & artificial intelligence
-- 🌱 I’m currently Pursuing my B.tech in AIDS
+- 🌱 I’m currently Pursuing my B.tech in AI and DS
 - 📫 How to reach me  Email - aishvaryarv@gmail.com
